@@ -12,7 +12,7 @@
 - 🚫 No infringement is intended.
 
 ## License 📜
-- 📝 This project is licensed under the MIT License.
+- 📝 This project is licensed under the [MIT License](LICENSE).
 
 ## Contribution ✨
 - 🛠️ Feel free to contribute by opening issues or submitting pull requests.
