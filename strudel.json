@@ -1,0 +1,13 @@
+{
+  "Alarm"       : "Notifications/Teams Notification - Alarm.mp3",
+  "Default"     : "Notifications/Teams Notification - Default.mp3",
+  "Escalate"    : "Notifications/Teams Notification - Escalate.mp3",
+  "Flick"       : "Notifications/Teams Notification - Flick.mp3",
+  "Nudge"       : "Notifications/Teams Notification - Nudge.mp3",
+  "Ping"        : "Notifications/Teams Notification - Ping.mp3",
+  "Pluck"       : "Notifications/Teams Notification - Pluck.mp3",
+  "Prioritize"  : "Notifications/Teams Notification - Prioritize.mp3",
+  "Summon"      : "Notifications/Teams Notification - Summon.mp3",
+  "Tap"         : "Notifications/Teams Notification - Tap.mp3",
+  "Vibe"        : "Notifications/Teams Notification - Vibe.mp3  ",
+}
