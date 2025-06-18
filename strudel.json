@@ -1,4 +1,6 @@
 {
+  "_base" : "https://raw.githubusercontent.com/AustinOliverHaskell/ms-teams-sounds-strudel/main/",
+  
   "Alarm"       : "Notifications/Teams Notification - Alarm.mp3",
   "Default"     : "Notifications/Teams Notification - Default.mp3",
   "Escalate"    : "Notifications/Teams Notification - Escalate.mp3",
