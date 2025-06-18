@@ -11,5 +11,26 @@
   "Prioritize"  : "Notifications/Teams Notification - Prioritize.mp3",
   "Summon"      : "Notifications/Teams Notification - Summon.mp3",
   "Tap"         : "Notifications/Teams Notification - Tap.mp3",
-  "Vibe"        : "Notifications/Teams Notification - Vibe.mp3  "
+  "Vibe"        : "Notifications/Teams Notification - Vibe.mp3  ",
+
+  "bounce": "Ringtones/Teams Ringtone - bounce.mp3",
+  "bubbles": "Ringtones/Teams Ringtone - bubbles.mp3",
+  "bubblesloud": "Ringtones/Teams Ringtone - bubblesloud.mp3",
+  "dripdrop": "Ringtones/Teams Ringtone - dripdrop.mp3",
+  "eureka": "Ringtones/Teams Ringtone - eureka.mp3",
+  "flutter": "Ringtones/Teams Ringtone - flutter.mp3",
+  "highscore": "Ringtones/Teams Ringtone - highscore.mp3",
+  "meetup_ring": "Ringtones/Teams Ringtone - meetup_ring.mp3",
+  "nextlevel": "Ringtones/Teams Ringtone - nextlevel.mp3",
+  "plink": "Ringtones/Teams Ringtone - plink.mp3",
+  "remix": "Ringtones/Teams Ringtone - remix.mp3",
+  "ring": "Ringtones/Teams Ringtone - ring.mp3",
+  "ringring": "Ringtones/Teams Ringtone - ringring.mp3",
+  "ripple": "Ringtones/Teams Ringtone - ripple.mp3",
+  "screenshare_ring": "Ringtones/Teams Ringtone - screenshare_ring.mp3",
+  "spacetime": "Ringtones/Teams Ringtone - spacetime.mp3",
+  "teams_meet_up_reminder": "Ringtones/Teams Ringtone - teams_meet_up_reminder.mp3",
+  "teams_notification": "Ringtones/Teams Ringtone - teams_notification.mp3",
+  "wishgranted": "Ringtones/Teams Ringtone - wishgranted.mp3",
+  "wobble": "Ringtones/Teams Ringtone - wobble.mp3"
 }
